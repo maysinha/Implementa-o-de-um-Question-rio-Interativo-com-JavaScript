@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #97c4bc;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -19,11 +19,11 @@ body {
     display: block;
     margin: 10px 0;
     padding: 10px;
-    background-color: #007BFF;
+    background-color: #003ce0;
     color: white;
     border: none;
     cursor: pointer;
     }
     #alternativas button:hover {
-    background-color: #0056b3;
+    background-color: #09e4e4;
     }
